@@ -4,7 +4,7 @@
 
 ### Category Name 1
 
-[My first project](C:\Users\Mia\UPenn\Fall2023\Public Policy Analytics\Assignments\Assignment2\CherayilMia-Assignment2.html) <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[My first project](C:/Users/Mia/UPenn/Fall2023/Public Policy Analytics/Assignments/Assignment2/CherayilMia-Assignment2.html) <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
